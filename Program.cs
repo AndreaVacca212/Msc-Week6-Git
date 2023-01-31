@@ -4,4 +4,5 @@ Console.WriteLine("Test Message");
 Console.WriteLine("Yes this is a conflict mf");
 Console.WriteLine("La push baby");
 Console.WriteLine("Hello from terminal");
+Console.WriteLine("Conflict");
 Console.ReadLine();
